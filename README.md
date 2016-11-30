@@ -1,2 +1,3 @@
 # PowerShell
-Various PowerShell scripts, functions, and snippets
+Selection of PowerShell Scripts, Functions, One Liners, whatever I've put together over the years.
+
